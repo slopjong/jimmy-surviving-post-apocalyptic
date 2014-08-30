@@ -1,0 +1,30 @@
+{
+  "name": "Jimmy",
+  "homepage": "http://github.com/slopjong/jimmy-surviving-post-apocalyptic",
+  "author": {
+    "name": "Romain Schmitz",
+    "email": "slpojong@slopjong.de"
+  },
+  "author": {
+    "name": "Dominik Dušek",
+    "email": "dusek.dom@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slopjong/jimmy-surviving-post-apocalyptic"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/slopjong/jimmy-surviving-post-apocalyptic/blob/master/MIT-LICENSE.txt"
+    },
+    {
+      "type": "GPLv2",
+      "url": "https://github.com/slopjong/jimmy-surviving-post-apocalyptic/blob/master/GPL-LICENSE.txt"
+    }
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "quintus": "0.2.0"
+  }
+}
